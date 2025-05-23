@@ -22,7 +22,7 @@ programa
 
 			limpa()
 		}
-		enquanto(numero > 0)
+		enquanto(numero >= 0)
 		    escreva("\nMaior número digitado: ", maior)
     		    escreva("\nMenor número digitado: ", menor)
 
