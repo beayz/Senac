@@ -15,7 +15,7 @@ programa
 
 			escreva("Digite uma nota válida de 0 a 10 \n")
 		}
-		 enquanto(nota1 > 10)
+		 enquanto(nota1 < 0 ou nota1 > 10)
 
 		 limpa()
 
@@ -25,7 +25,7 @@ programa
 
 			escreva("Digite uma nota válida de 0 a 10 \n")
 		}
-		enquanto(nota2 > 10)
+		enquanto(nota2 < 0 ou nota2 > 10)
 
 		limpa()
 			
