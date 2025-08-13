@@ -138,7 +138,5 @@ Embora ambos os laços sejam usados para repetir um bloco de código, a principa
 
 ## Referência
 
-* **Material Didático e Orientação:**
-
-- Desenvolvidos e orientados pela docente Fernanda Nalon durante o curso.
+* **Material Didático e Orientação:** Materiais desenvolvidos e orientados pela docente Fernanda Nalon durante o curso.
 
